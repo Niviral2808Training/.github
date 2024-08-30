@@ -1,0 +1,12 @@
+{
+	"name": "Example CI",
+	"description": "Example CI description",
+	"categories": [
+			"Go"
+	],
+	"filePatterns": [
+		"package.json",
+		"^Dockerfile",
+		".*\\.md$"
+	]
+}
